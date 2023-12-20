@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,600;0,700;1,100&display=swap');
+
+
+.ServiceReg{
+    background-color: #5f5f5f;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100vh;
+    width: 100%;
+   display: flex;
+   justify-content: flex-end;
+    overflow: hidden;
+}
+.right-container-ServiceReg{
+    height: 100%;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-container-ServiceReg{
+    height: 100%;
+    position: relative;
+    background: #18979b;
+    
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.ServiceReg-form-div{
+    position: relative;
+  
+    background-color: rgba(255, 255, 255, 0.138);
+    height: 75%;
+    width: 50%;
+    border-radius: 25px;
+    box-shadow: 0px 4px 20px #0000001c;
+   
+    
+}
+.ServiceReg-name{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: -2%;
+    
+}
+.ServiceReg-name-label{
+    margin-bottom: 1px;
+    font-family: "poppins";
+    font-size: 13px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+.ServiceReg-name-textarea{
+    resize: none;
+    height: 5em;
+    position: relative;
+}
+.ServiceReg-btn-grp{
+    margin-top: 9%;
+    padding-left: 43%;
+}
+.ServiceReg-form{
+    margin-top: 10%;
+}
+.ServiceReg-name-input{
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: #b4b4b4;
+    height: 23px;
+    position: relative;
+    outline: none;
+    color: rgb(21, 21, 21);
+}
+.ServiceReg-name-input:focus{
+border-top: 0;
+border-right: 0;
+border-top: 0;
+border-left: 0;
+border-radius: 0;
+border-bottom: 2px solid;
+border-color: #b4b4b4;
+
+}
+.ServiceReg-name-textarea{
+    background-color: transparent;
+    position: relative;
+    border: 2px solid;
+    border-radius: 8px;
+    color: rgb(21, 21, 21);
+    border-color: #b4b4b4;
+    outline: none;
+    outline-color: aqua;
+    height: 6em;
+}
+ 
+
+.ServiceReg-clear-btn{
+    height:27px;
+    width: 90px;
+    background-color: transparent;
+    margin-right: 8%;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid #b4b4b4;
+    border-radius: 8px;
+    color: #454545;
+   
+}
+.ServiceReg-submit-btn{
+    height:27px;
+    width: 90px;
+    background:  #18979b ;
+   
+    font-size: 13px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+}

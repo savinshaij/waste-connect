@@ -1,0 +1,62 @@
+.nav{
+    position: fixed;
+    right: 0;
+    top:0;
+    z-index: 100;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 5% ;
+    background-color:transparent;
+    backdrop-filter: blur(1px);
+}
+.LoginBtnNav{
+    background-color: #18979b;
+    height: 27px;
+    margin-left: 55px;
+    width: 95px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 12px;
+    
+}
+
+.navdiv{
+    position: relative;
+    display: flex;
+}
+.logo{
+    position: relative;
+    top:2px;
+    height: 35px;  
+    
+}
+.navlist{
+    display: flex;
+    list-style: none;
+   
+}
+.navlist #navLinks.active{
+    font-size: 15px;
+    font-weight: 900px;
+    font-family: 'Poppins' ;
+    color: #18979b;
+}
+.navlist #navLinks{
+   list-style: none;
+    color: rgb(0, 70, 82);
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: 600px;
+    font-family: 'Poppins';
+    border-bottom: 2px solid transparent;
+    transition: all .55s ease;
+    text-decoration: none;
+    list-style: none;
+    
+}
+ .navlist #navLinks:hover{
+    border-bottom: 2px solid rgb(0, 80, 76);
+    color: #18979b;
+ }

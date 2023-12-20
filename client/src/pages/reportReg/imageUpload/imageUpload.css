@@ -1,0 +1,41 @@
+
+.imageUpload-main{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+/* Upload */
+.uploadPicturesWrapper div {
+  justify-content: flex-start !important;
+  
+}
+
+.uploadPictureContainer {
+  width: 60px !important;
+  height: auto !important;
+  margin: 0 !important;
+  margin-left: 5px !important;
+  padding: 10px !important;
+}
+
+.uploadPictureContainer img {
+  height: 50px !important;
+}
+.fileContainer{
+
+  background-color: rgba(0, 0, 0, 0.059) !important;
+  position: relative !important;
+  height: 180px !important;
+  overflow-y: scroll !important;
+
+}
+.fileContainer .chooseFileButton{
+
+  border-radius: 5px !important;
+  background-color:#18979b !important;
+  font-family: 'Poppins' !important;
+  font-weight: 400 !important;
+}
+.fileContainer .deleteImage{
+  background-color:#18979b !important ;
+}

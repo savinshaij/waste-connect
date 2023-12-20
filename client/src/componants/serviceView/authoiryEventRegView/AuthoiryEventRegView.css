@@ -1,0 +1,222 @@
+.UserEventRegReqView-box {
+    height: 161px;
+    width: 776px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-main-border {
+    background-color: #f8f8f8;
+    border: 3px solid;
+    margin: 10px 10px 10px 10px;
+    border-color: #abb1bb;
+    border-radius: 18px;
+    height: 161px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 776px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-contents {
+    height: 139px;
+    left: 12px;
+    position: relative;
+    top: 6px;
+    width: 741px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-overlap {
+    height: 139px;
+    position: relative;
+    width: 745px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-right-content {
+    height: 130px;
+    left: 644px;
+    position: absolute;
+    top: 9px;
+    width: 101px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 84px;
+    width: 88px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-div {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 113px;
+    width: 85px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-cancalbtn {
+    all: unset;
+    box-sizing: border-box;
+    height: 23px;
+    left: 11px;
+    position: absolute;
+    top: 0;
+    width: 88px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-overlap-group {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #455a64;
+    border-radius: 6px;
+    height: 23px;
+    position: relative;
+    width: 86px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-2 {
+    color: #455a64;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+    width: 38px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-approve-btn {
+    height: 23px;
+    left: 11px;
+    position: absolute;
+    top: 33px;
+    width: 88px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-div-wrapper {
+    background-color: #384d6c;
+    border-radius: 6px;
+    height: 23px;
+    position: relative;
+    width: 86px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    width: 52px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-left-content {
+    height: 137px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 648px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-4 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 109px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-5 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 376px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 54px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-6 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 529px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 70px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-7 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    width: 75px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-8 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 376px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    width: 54px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-text-wrapper-9 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    width: 109px;
+}
+
+.UserEventRegReqView-box .UserEventRegReqView-rectangle {
+    height: 83px;
+    left: 0;
+    position: absolute;
+    background-color: #455a64;
+    top: 54px;
+    width: 636px;
+}
